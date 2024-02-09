@@ -33,7 +33,7 @@ function Page() {
           }
         `}</style>
       </a></h1>
-      <p>Golden Tiger Eclipse, Jade Hare Prosperity
+      <p>Azure Dragon of the East: Spring’s Second Chance
         <style jsx>{`
             p {
               margin-top: 0px;

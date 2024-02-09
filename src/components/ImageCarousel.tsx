@@ -21,7 +21,7 @@ function ImageCarousel() {
 
     return (
         <div className="imageContainer">
-            <ExportedImage src={images[currentIndex]} alt="Golden Tiger Eclipse, Jade Hare Prosperity" fill placeholder="empty" />
+            <ExportedImage src={images[currentIndex]} alt="Azure Dragon of the East: Spring’s Second Chance" fill placeholder="empty" />
             <style jsx>{`
                 .imageContainer {
                     margin: 10px 0px 10px 0px;
