@@ -10,7 +10,7 @@ function Page() {
   const { isConnected } = useAccount()
   return (
     <>
-      <h1><a href={`https://endproject.xn--mk1bu44c`}>ENDPROJECT
+      <h1><a href={`https://end.xn--mk1bu44c`}>END
         <style jsx>{`
           h1 {
             margin-top: 25px;
